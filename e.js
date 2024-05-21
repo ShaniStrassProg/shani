@@ -1,2 +1,3 @@
 dddddddddd
 Lock;''
+length;localStorage;
